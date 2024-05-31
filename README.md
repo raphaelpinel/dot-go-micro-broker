@@ -2,8 +2,7 @@
 Microservices with Go at the dot conf
 
 ## Branches
-- For experimenting on your own, go to the start branch: `git checkout start`
-- For a ready working project, go to the main branch: `git checkout main`
+- Use the main branch: `git checkout main`
 
 ## How to start the service
 `go run ./cmd/api`
