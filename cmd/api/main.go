@@ -22,8 +22,6 @@ func main() {
 	}
 
 	// start the server
-	if err := srv.ListenAndServe(); err != nil {
-		log.Fatalf("Server failed to start: %v", err)
-	}
+	// TODO: listen and serve and handle errors
 	
 }
